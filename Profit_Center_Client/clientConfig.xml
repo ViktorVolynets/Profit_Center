@@ -1,0 +1,4 @@
+﻿<ClientConfig>
+  <MulticastGroup>224.0.0.1</MulticastGroup>
+  <Port>11000</Port>
+</ClientConfig>

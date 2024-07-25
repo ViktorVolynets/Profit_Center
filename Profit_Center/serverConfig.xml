@@ -1,0 +1,6 @@
+﻿<ServerConfig>
+  <MulticastGroup>224.0.0.1</MulticastGroup>
+  <Port>11000</Port>
+  <MinValue>1</MinValue>
+  <MaxValue>100</MaxValue>
+</ServerConfig>
